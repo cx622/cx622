@@ -1,6 +1,6 @@
 ![banner](https://media.discordapp.net/attachments/649001574131171352/1022996025474043954/IMG20220923181955.jpg?width=1360&height=612)
 <div>
-## align ="center">Hi, I am cx622##
+## Hi, I am cx622
 <p>I'm a complete newbie</p>
 </div>
 ### &nbsp;GitHub Analytics
