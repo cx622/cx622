@@ -1,9 +1,9 @@
 ![banner](https://media.discordapp.net/attachments/649001574131171352/1022996025474043954/IMG20220923181955.jpg?width=1360&height=612)
 <div>
-## Hi, I am cx622
+<h1>Hi, I am cx622</h1>
 <p>I'm a complete newbie</p>
 </div>
-### &nbsp;GitHub Analytics
+<h3> &nbsp;GitHub Analytics </h3>
 
 <p align="center">
 <a href="https://github.com/cx622">
