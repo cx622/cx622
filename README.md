@@ -2,7 +2,7 @@
 <div>
 <h1>Hi, I am cx622</h1>
 <p>I'm a complete newbie</p>
-![](https://komarev.com/ghpvc/?cx622&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?cx622&color=blueviolet" alt="hi"/>
 </div>
 <h3> &nbsp;GitHub Analytics </h3>
 
